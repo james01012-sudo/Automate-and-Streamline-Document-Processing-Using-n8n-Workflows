@@ -1,0 +1,96 @@
+  
+
+# JAMES DAVID MATOY
+  
+  
+Email: matoy.jamesdavid@gmail.com
+
+Phone: $\\quad 0951-376-1502$
+
+Linkedin: https://www.linkedin.com/in/james-david-matoy/
+  
+  
+## AI AUTOMATION ENGINEER
+  
+  
+Curious and data-driven, I'm exploring n8n, LangChain, LLMs, and AI agents to enhance automation and workflows. With Power BI and data analysis experience, I've built reports, managed projects, and developed meaningful solutions. My background includes CRM, email marketing, automation, content creation, databases, and bookkeeping.
+  
+  
+## WORK EXPERIENCE
+  
+  
+Part-Time Freelance Virtual Assistant
+
+Nov 2024 - Feb 2025
+
+  
+\- Managed and create online content (blog, social media, slideshow, reels, website, email) using AI.
+
+  
+Freelance SQL Database and Automation Support
+
+Aug 2024 - Nov 2024
+
+  
+\- Developed and executed SQL queries and scripts, ensuring data integrity, and wrote SOPs in Notion.
+
+\- Manage and track tasks using ClickUp's Views and Dashboards.
+
+\- Developed and maintained Power BI reports and dashboards to deliver actionable insights from diverse data sources, ensuring data integrity through Power Query, DAX, and data modeling.
+
+\- Reconciled data across SQL servers using Excel Formula and Power Query.
+
+\- Automated data scraping using RegEx, the OpenAI API, and low-code, in-house tools.
+
+  
+Virtual Assistant, Outsourced Doers
+
+June 2020 - Mar 2024
+
+  
+\- Analyzed customer survey data in Excel and created reports to evaluate and improve leadership programs.
+
+\- Successfully managed projects using Asana and Airtable, prioritizing tasks and meeting deadlines.
+
+\- Proactively resolved problems by identifying root causes, understanding client needs, and developing preventative solutions.
+
+\- Experienced in CRM, email marketing, automation and integration, and database development using ActiveCampaign, Keap and Zapier.
+
+  
+Math Tutor, Math Mentor Guide Corporation
+
+June 2019 - Mar 2020
+
+  
+\- Increased parents' and students' satisfaction from 30\\% to 70\\%
+
+\- Taught students with Math and increased their grades from $70 \\%$ to $95 \\%$
+
+\- Explained very complex mathematical ideas to a student in the simplest manner that they could understand and designed and made instructional material
+
+  
+Data Analyst, Posbang Corporation
+
+Sept 2018 - Jan 2019
+
+  
+\- Improved the quality assurance of finding and correcting wrong calculations, data discrepancies, and reporting bugs in the software (POS, table/restaurant management, inventory) using Microsoft Excel and SQL.
+  
+  
+## EDUCATION
+  
+  
+## Bachelor of Mathematics
+  
+  
+University of the Southeastern Philippines, Davao City
+
+Thesis - Independence Number of the Ladder Graph
+
+(Used Matrix and wrote Python program to compute the Independence Number)
+  
+  
+## ADDITIONAL INFORMATION
+  
+  
+\- Technical Skills: n8n, LangChain, LLMs, OpenAI, APIs, Webhooks, AI Agents, Python, MS SQL Server, Excel, Power BI, Google Cloud Platform (GCP), make.com, Zapier
