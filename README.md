@@ -1,3 +1,16 @@
+## 📊 GitHub Pages Deployment - Wednesday, 06/04/2025, 10:30:29 AM
+
+| Field | Value |
+|-------|-------|
+| Repository | Automate-and-Streamline-Document-Processing-Using-n8n-Workflows |
+| Path | 2025-06-04T02:30:27.471Z _ DOJ-Memo-Circular-No.-036_IACAT-Revised-Guidelines-on-Departure-Formalities-for-International-Bound-Passengers-1.html |
+| GitHub Pages URL | [https://james01012-sudo.github.io/Automate-and-Streamline-Document-Processing-Using-n8n-Workflows/2025-06-04T02:30:27.471Z _ DOJ-Memo-Circular-No.-036_IACAT-Revised-Guidelines-on-Departure-Formalities-for-International-Bound-Passengers-1.html](https://james01012-sudo.github.io/Automate-and-Streamline-Document-Processing-Using-n8n-Workflows/2025-06-04T02:30:27.471Z _ DOJ-Memo-Circular-No.-036_IACAT-Revised-Guidelines-on-Departure-Formalities-for-International-Bound-Passengers-1.html) |
+| README GitHub Pages | [https://james01012-sudo.github.io/Automate-and-Streamline-Document-Processing-Using-n8n-Workflows/](https://james01012-sudo.github.io/Automate-and-Streamline-Document-Processing-Using-n8n-Workflows/) |
+| Philippine Time | Wednesday, 06/04/2025, 10:30:29 AM |
+| Toronto Time | Tuesday, 06/03/2025, 10:30:29 PM |
+
+---
+
 ## 📊 Data Update - Wednesday, 06/04/2025, 10:30:25 AM
 
 ✅ Conversion to Text: Data Table
